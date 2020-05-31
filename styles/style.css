@@ -141,7 +141,7 @@
 	font-size: 22px;
 	display: inline-block;
 }
-.artheading_1{
+.artheading{
 	font-family: "BPG Nino Mtavruli";
 	font-size: 20px;
 	margin-left: 30px;
@@ -155,7 +155,7 @@
 	font-size: 16px;
 	margin-bottom: 22px;
 }		
-.div_1{
+.art_1{
 	display: inline-block;
 	margin-top: 18px;
 	margin-right: 100px;
@@ -167,4 +167,74 @@
 	height: 210px;
 	margin: 18px 39px 0 30px;
 	display: inline-block;
+}
+.date_2{
+	font-size: 48px;
+	font-family: 'BPG Nino Mtavruli';
+	background: #3D58A6;
+	color: white;
+	padding: 17px 2px 8px 7px;
+	height: 35px;
+	width: 47px;
+	margin: 50px 23px 56px 30px;
+	display: inline-block;
+}
+.art_2{
+	display: inline-block;
+	margin-top: 18px;
+	width: 900px;
+	vertical-align: top;
+}
+.laptop_photo{
+	width: 270px;
+	height: 210px;
+	margin: 40px 72px 0 86px;
+	display: inline-block;
+	vertical-align: top;
+}
+.date_3{
+	font-size: 48px;
+	font-family: 'BPG Nino Mtavruli';
+	background: #3D58A6;
+	color: white;
+	padding: 17px 2px 8px 7px;
+	height: 35px;
+	width: 47px;
+	margin: 35px 23px 56px 30px;
+	display: inline-block;
+}
+.pizza_photo{
+	width: 270px;
+	height: 210px;
+	margin: 18px 39px 0 30px;
+	display: inline-block;
+}
+.date_4{
+	font-size: 48px;
+	font-family: 'BPG Nino Mtavruli';
+	background: #3D58A6;
+	color: white;
+	padding: 17px 2px 8px 7px;
+	height: 35px;
+	width: 47px;
+	margin: 12px 23px 56px 30px;
+	display: inline-block;
+}
+.art_4{
+	display: inline-block;
+	margin-top: 18px;
+	margin-left: 30px;
+	width: 900px;
+	vertical-align: top;
+}
+.face_photo{
+	width: 270px;
+	height: 210px;
+	margin: 18px 58px 0 78px;
+	display: inline-block;
+}
+.artp_last{
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
+	margin-bottom: 75px;
 }
