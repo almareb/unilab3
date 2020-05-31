@@ -243,6 +243,7 @@
 	background: #E6E6E6;
 	padding: 75px 1010px 404px 87px;
 	margin: 21px 0 35px 0;
+	display: inline-block;
 }
 .grey{
 	color: #808080;
@@ -266,4 +267,9 @@
 .mail{
 	font-family: 'BPG Ingiri Arial';
 	font-size: 16px;
+}
+.map{
+	position: absolute;
+	top: 134px;
+	left: 402px;
 }
