@@ -43,7 +43,7 @@
 .banner{
 	width: 1170px;
 	height: 460px;
-	margin: 86px 98px 98px 116px;
+	margin: 86px 98px 116px 98px;
 }
 .banner_text{
     font-size: 30px;
@@ -237,4 +237,33 @@
 	font-family: 'BPG Ingiri Arial';
 	font-size: 16px;
 	margin-bottom: 75px;
+}
+/* contacts page */
+.contacts{
+	background: #E6E6E6;
+	padding: 75px 1010px 404px 87px;
+	margin: 21px 0 35px 0;
+}
+.grey{
+	color: #808080;
+}
+.info{
+	color: #3D58A6;
+	font-size: 20px;
+	font-family: 'BPG Nino Mtavruli Bold';
+	margin-bottom: 6px;
+}
+.address{
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
+	margin-bottom: 8px;
+}
+.tel{
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
+	margin-bottom: 8px;
+}
+.mail{
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
 }
