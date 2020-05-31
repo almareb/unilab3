@@ -27,6 +27,18 @@
 .navbar_c{
 	margin-left: 32px;
 }
+.fb_logo{
+	width: 14px;
+	height: 30px;
+	border-right: 1px solid #3D58A6;
+	margin: 68px 0 39px 110px;
+	padding-right: 35px;
+}
+.yt_logo{
+	width: 24.81px;
+	height: 30px;
+	margin: 68px 0 39px 29px;
+}
 /* index page */
 .banner{
 	width: 1170px;
